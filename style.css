@@ -65,6 +65,11 @@ p{
     border-radius: 10px;
 }
 
+.card-item:hover{
+    background-color: hsl(240, 6%, 78%);
+    cursor: pointer;
+}
+
 .dark-mode-card{
     background-color: hsl(228, 28%, 20%);
     padding: 25px 25px;
